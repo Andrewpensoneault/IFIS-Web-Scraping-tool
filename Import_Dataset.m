@@ -1,5 +1,5 @@
 %% Initialize variables (Change file name to the Elevation data)
-filename = 'D:\Dropbox\Graduate Classes\UIOWA - 2018 Spring\TDA\Project\ELEVATIONApr_03_20_50_17_2018.csv';
+filename = '~\ELEVATIONApr_03_20_50_17_2018.csv';
 %% Other commands to create file
 delimiter = ',';
 startRow = 2;
